@@ -1,8 +1,62 @@
 .estilo-tabla{
-    border: 1px solid #000;
+    border: 2px solid #000;
     width: 100%;
 }
 
 .titulo{
     text-align: center;
+    margin-bottom: 85px;
+}
+
+
+.imagen-1{
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+.contenido-imagen-1{
+    text-align: left;
+   
+}
+
+.imagen-2{
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+
+
+.contenido-imagen{
+    text-align: center;
+    font-size: 14px;
+}
+
+.parrafo-1{
+    font-weight: bold;
+}
+
+.parrafo-2{
+    color: rgb(120, 2, 204);
+    text-decoration: underline;
+}
+
+.tabla-contenido{
+    margin-bottom: 65px;
+}
+
+.imagen-matricula{
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+
+
+.titulo-estudiantes{
+    text-align: center;
+}
+
+.tabla-estudiantes{
+    text-align: center;
+    border: 2px solid #000;
+    width: 100%;
 }
